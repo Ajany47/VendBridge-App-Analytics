@@ -84,15 +84,20 @@ VendBridge-App-Analytics/
 ├── README.md
 └── .gitignore
 
-## 🔗 View the Project Summary Post
+## 📢 View the Project Summary Post
 
-Check out the full project breakdown on LinkedIn:  
-👉 https://www.linkedin.com/in/olubunmi-adenekan-b231847a/
+Check out the full project breakdown and insights shared on LinkedIn:
+
+👉 [https://www.linkedin.com/in/olubunmi-adenekan-b231847a/](https://www.linkedin.com/in/olubunmi-adenekan-b231847a/)
 
 ---
 
 ## 📫 Contact
 
-Feel free to connect or share feedback!  
-GitHub: [Ajany47](https://github.com/Ajany47)  
-LinkedIn:https://www.linkedin.com/in/olubunmi-adenekan-b231847a/
+Feel free to connect or share feedback — I’d love to hear your thoughts!
+
+- **GitHub**: [Ajany47](https://github.com/Ajany47)
+- **LinkedIn**: [Olubunmi Adenekan](https://www.linkedin.com/in/olubunmi-adenekan-b231847a/)
+
+
+
